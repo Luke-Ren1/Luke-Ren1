@@ -8,7 +8,7 @@ Healthcare informatics professional with clinical experience, transitioning from
 
 **📍 San Diego, CA**  
 **🎓 University of San Diego - MS Healthcare Informatics**  
-**👥 1.3K followers · 67 following**
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luke-ren/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:yongpeiminren@sandiego.edu)
