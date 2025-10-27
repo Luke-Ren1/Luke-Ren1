@@ -1,6 +1,6 @@
 # Luke Ren
 
-**Healthcare Data Analyst | SQL Developer | Tableau Specialist**
+**Healthcare Data Analyst | SQL Developer | Data Visualization Specialist**
 
 ## Follow
 
