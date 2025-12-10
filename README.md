@@ -10,13 +10,13 @@ Healthcare informatics professional with clinical experience, transitioning from
 
 ## 🛠️ Technical Skills
 
-**Languages & Databases:** SQL, Python, Google BigQuery, PostgreSQL, MySQL  
-**Visualization & BI Tools:** Tableau, Tableau Cloud, Power BI, Looker Studio  
+**Languages & Databases:** SQL, Python, PostgreSQL, MySQL  
+**Visualization & BI Tools:** Tableau, Tableau Cloud, Power BI  
 **Healthcare Tools:** Jamovi, Excel, Medical Terminology, Clinical Data Systems
 
 ## 📂 Projects
 
-*Your projects will go here...*
+
 
 ## 📫 Let's Connect
 
@@ -26,14 +26,9 @@ Healthcare informatics professional with clinical experience, transitioning from
 
 ---
 
-![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=default)
 
 *Open to healthcare data analyst opportunities and collaborations!*
 
 ---
 
-## 📈 GitHub Stats
 
-![Luke's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_border=true&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&hide_border=true&theme=default)
