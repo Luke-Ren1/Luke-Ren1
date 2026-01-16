@@ -12,7 +12,7 @@ Healthcare informatics professional with clinical experience, transitioning from
 
 **Languages & Databases:** SQL, Python, PostgreSQL, MySQL  
 **Visualization & BI Tools:** Tableau, Tableau Cloud, Power BI  
-**Healthcare Tools:** Jamovi, Excel, Medical Terminology, Clinical Data Systems
+**Healthcare Tools:** Jamovi, Excel, Medical Terminology, Clinical Data Systems, EHR System
 
 ## 📂 Projects
 
