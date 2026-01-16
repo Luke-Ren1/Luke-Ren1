@@ -1,6 +1,6 @@
 ## 👋 Introducing Myself
 
-Healthcare informatics professional with clinical experience, transitioning from medicine to data analytics. Passionate about transforming healthcare data into actionable insights.
+Healthcare informatics professional with clinical experience, transitioning from medicine to data analytics. Passionate about transforming data into actionable insights.
 
 - 🏥 **Healthcare Data Expertise**: Clinical data analysis, healthcare KPIs, and patient outcome metrics
 - 📊 **Data Visualization**: Designing interactive Tableau dashboards for clinical and operational data
